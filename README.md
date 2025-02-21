@@ -1,2 +1,2 @@
-# PA2025
-Repositório destinado ao aprendizado de Lógica de Programação
+# ProgrAlgoritm_1C-1F_2025
+ProgrAlgoritm1C$1F2025
